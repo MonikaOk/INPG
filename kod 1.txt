@@ -1,4 +1,4 @@
-#ifndef CATALOGUE_HPP_ //komentarz M
+#ifndef CATALOGUE_HPP_ //komentarz Mateusz
 #define CATALOGUE_HPP_
 
 #include <string>
