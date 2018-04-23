@@ -43,7 +43,7 @@ private:
 	int x;
 	int y;
 	int z;
-	int v;
+	int vz;
 public:
 	
 
