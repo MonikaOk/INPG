@@ -4,7 +4,7 @@
 #include <vector>
 com 2
 class Shape {
-public:
+public:fmf
     Shape(double x, double y) : _x(x), _y(y) {}
     virtual double area() const = 0;
     virtual ~Shape() = default;

@@ -2,11 +2,19 @@
 #ifndef CATALOGUE_HPP_ //komentarz Monika
 #define CATALOGUE_HPP_
 
+<<<<<<< HEAD
 #include <string>
 #include <map>
 #include <vector>
 #include <functional>
 #include <iostream>
+=======
+#include <string> // zmiana 1.
+#include <map>ddd
+#include <vector> // zmiana 2rff
+#include <functional>srsh
+
+>>>>>>> gałęź-2
 class Product {
 public:
     Product(std::string id, std::string name, double price) :
