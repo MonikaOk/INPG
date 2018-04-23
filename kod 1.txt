@@ -4,7 +4,7 @@
 
 #include <string> // zmiana 1.
 #include <map>
-#include <vector>
+#include <vector> // zmiana 2
 #include <functional>
 
 class Product {
