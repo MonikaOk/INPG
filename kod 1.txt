@@ -38,6 +38,20 @@ public:
     std::vector<Product> getProductsByNamePart(std::string chunk, bool ignoreCase = false) const;
 private:
     inventory_t _inventory;
+Class Shape{
+private:
+	int x;
+	int y;
+	int z;
+	int v;
+public:
+	
+
+
+}
+
+
+
 };
 
 #endif /* CATALOGUE_HPP_ */
